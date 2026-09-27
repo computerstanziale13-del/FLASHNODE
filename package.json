@@ -1,0 +1,13 @@
+{
+  "name": "flashnode-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord ospitato su Render con Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "express": "^4.19.2"
+  }
+}
